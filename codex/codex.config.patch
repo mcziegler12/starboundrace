@@ -1,0 +1,5 @@
+[
+	{ "op" : "add"
+	,"path" : "/initialcodex/myrace"
+	,"value" : [ "controls", "humanprologue", "humanorigins", "humanescape", "survivalguide" ] }
+]

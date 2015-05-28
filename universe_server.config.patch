@@ -1,0 +1,6 @@
+[
+	{ "op" : "add"
+	,"path" : "/speciesShips/myrace"
+	,"value" : [ "/ships/myrace/humanT0.structure", "/ships/myrace/humanT1.structure", "/ships/myrace/humanT2.structure", "/ships/myrace/humanT3.structure", "/ships/myrace/humanT4.structure", "/ships/myrace/humanT5.structure", "/ships/myrace/humanT6.structure", "/ships/myrace/humanT7.structure", "/ships/myrace/humanT8.structure" ]
+	}
+]

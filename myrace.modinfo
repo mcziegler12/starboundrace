@@ -1,0 +1,11 @@
+{
+	"name" : "myrace",
+	"path" : ".",
+	"requires" : [],
+	"includes" : [],
+	"metadata" : {
+		"author" : "",
+		"description" : "",
+		"version" : "0.0.1"
+	}
+}
