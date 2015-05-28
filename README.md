@@ -1,5 +1,3 @@
-# Readme
-
 ### What is in this resource pack
 
 - (as far as I can determine) all of the barest essentials (folders, .patch files, and assets) to get a custom species integrated and walking around in the game. Technically speaking, you can plug this resource pack into your /mods folder to play a carbon copy of the vanilla Human species.
@@ -19,6 +17,15 @@
 - Replace ALL instances of "myrace" with the name of your new species
 - THIS INCLUDES ALL FILES AND FOLDERS. If you do not properly rename all assets, the game will crash or otherwise work incorrectly
 - Begin replacing vanilla assets with your species' custom assets or assets you have permission from another modder to use, referring to the file structure of the vanilla species for files and folders not included in this resource pack
+
+### Other resources
+
+- [The Unofficial Modding Ebook](http://community.playstarbound.com/resources/unofficial-modding-ebook.2930/)
+	- Features basic information about editing JSON files, which is necessary for creating Starbound mods, as well as recommended programs for image and code editing
+- [Online JSON Editor](https://www.jsoneditoronline.org/)
+	- Helps handle some finicky JSON bits, like commas, quotations, and brackets
+- [Online JSON Schema/Patch Validator](http://json-schema-validator.herokuapp.com/jsonpatch.jsp)
+	- Helps for double-checking JSON
 
 ### Credits
 [This repository was originally compiled by Wall of Knowledge on Chucklefish's Official Website](http://community.playstarbound.com/resources/new-race-jumpstart-kit.2408/).  It has been updated for the current nightly build and made into a git repository by me.
