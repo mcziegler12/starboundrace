@@ -3,7 +3,7 @@
 ### Across All files
 
 Variable Name | Type | Description
-----------------------------------
+--------------|------|------------
 ButtonText | String | the text that appears on the command button in the AI interface
 selectSpeech | Array | a series of variables that affect the text that appears appear when the command is selected
 successSpeech | Array | same as above, but appears after the command has been issued and executed successfully
@@ -15,7 +15,7 @@ speedModifier | Floating point | Multiplier for how fast the associated speech s
 ### In ai.config.patch
 
 Variable Name | Type | Description
-----------------------------------
+--------------|------|------------
 aiFrames | String | path to a file of the AI's image
 portraitFrames | String | path to a file of the AI's image for use in missions
 staticFrames | String | path to an image file of static; overlayed on the AI's image
